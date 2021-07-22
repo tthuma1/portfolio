@@ -1,0 +1,3 @@
+# Dear bots, you're allowed to crawl everything
+User-agent: *
+Disallow: 

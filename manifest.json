@@ -1,0 +1,23 @@
+{
+  "name": "Tim Thuma's website",
+  "short_name": "Tim Thuma",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#000",
+  "description": "Tim Thuma's personal website.",
+  "icons": [
+    {
+      "src": "static/icons/manifest-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "static/icons/manifest-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}
