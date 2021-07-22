@@ -9,9 +9,10 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@types/lozad": "^1.16.1",
     "core-js": "^3.15.1",
-    "nuxt": "^2.15.7",
-    "nuxt-lazy-load": "^1.2.6"
+    "lozad": "^1.16.0",
+    "nuxt": "^2.15.7"
   },
   "devDependencies": {
     "@nuxtjs/pwa": "^3.3.5",

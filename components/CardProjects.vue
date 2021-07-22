@@ -29,11 +29,11 @@
         class="my-6 flex flex-col items-center text-gray-600 dark:text-gray-400"
       >
         <img
-          src="/vegasat.png"
+          data-src="/vegasat.png"
           alt="VegaSat logo"
           width="160"
           height="160"
-          class="w-40"
+          class="w-40 lozad"
         />
         VegaSat logo
       </div>
@@ -56,11 +56,11 @@
         class="my-5 flex flex-col items-center text-gray-600 dark:text-gray-400"
       >
         <img
-          src="/crypto-byte.svg"
+          data-src="/crypto-byte.svg"
           alt="CryptoByte logo"
           width="96"
           height="96"
-          class="w-24"
+          class="w-24 lozad"
         />
         <span class="mt-1"> CryptoByte logo </span>
       </div>

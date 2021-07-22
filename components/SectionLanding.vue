@@ -1,6 +1,5 @@
 <template>
   <section
-    v-lazy-load
     class="
       min-h-screen
       grid grid-rows-2
@@ -205,7 +204,7 @@
       >
         <img
           src="/icon_full.png"
-          alt="My portrait"
+          alt="My icon"
           width="208"
           height="208"
           class="w-52 h-52 rounded-full shadow-2xl"

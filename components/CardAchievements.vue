@@ -35,11 +35,11 @@
       </ul>
       <div class="flex justify-center mt-4">
         <img
-          src="/trophy.svg"
+          data-src="/trophy.svg"
           alt="Trophy icon"
           width="144"
           height="144"
-          class="w-36"
+          class="w-36 lozad"
         />
       </div>
     </div>

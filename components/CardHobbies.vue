@@ -14,11 +14,11 @@
       </p>
       <div class="flex justify-center my-6">
         <img
-          src="/big-o.jpg"
+          data-src="/big-o.jpg"
           alt="Big O notation graph"
           width="215"
           height="360"
-          class="w-full rounded-md shadow-md"
+          class="w-full rounded-md shadow-md lozad"
         />
       </div>
 
@@ -29,10 +29,10 @@
       <div class="flex justify-center my-6">
         <!-- <lazy-video-yt></lazy-video-yt> -->
         <iframe
-          class="w-full h-52"
+          class="w-full h-52 lozad"
           width="208"
           height="300"
-          src="https://www.youtube-nocookie.com/embed/T38JRqe5tYQ"
+          data-src="https://www.youtube-nocookie.com/embed/T38JRqe5tYQ"
           title="YouTube video player"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

@@ -54,10 +54,11 @@
 </template>
 
 <script>
+import lozad from 'lozad'
+
 export default {
   data() {
     return {
-      message: '',
       isDark: false,
     }
   },
@@ -67,10 +68,12 @@ export default {
       this.isDark = true
     }
   },
-  computed: {
-    mail() {
-      return `mailto:thumatim@gmail.com?subject=Hello there!&body=${this.message}`
-    },
+  mounted() {
+    // lazy loads elements with default selector as '.lozad'
+    const observer = lozad('.lozad', {
+      rootMargin: '50% 0px', // start loading when element is 50vh outside viewport
+    })
+    observer.observe()
   },
   methods: {
     toggleTheme() {

@@ -17,11 +17,11 @@
 
       <div class="flex justify-center my-6">
         <img
-          src="/coding.jpg"
+          data-src="/coding.jpg"
           alt="Example code"
           width="208"
           height="126"
-          class="w-56 rounded-md shadow-md"
+          class="w-56 rounded-md shadow-md lozad"
         />
       </div>
 
@@ -30,21 +30,21 @@
         <li>
           C++
           <img
-            src="/cpp.svg"
+            data-src="/cpp.svg"
             alt="C++ logo"
             width="32"
             height="32"
-            class="inline h-8"
+            class="inline h-8 lozad"
           />
         </li>
         <li>
           Python
           <img
-            src="/python.png"
+            data-src="/python.png"
             alt="Python logo"
             width="32"
             height="32"
-            class="inline h-8"
+            class="inline h-8 lozad"
           />
         </li>
         <li>Solidity</li>
@@ -53,11 +53,11 @@
           <span class="text-gray-700 dark:text-gray-300">(HTML, CSS, JS)</span>
 
           <img
-            src="/www.svg"
+            data-src="/www.svg"
             alt="World wide web icon"
             width="32"
             height="32"
-            class="inline h-8"
+            class="inline h-8 lozad"
           />
         </li>
         <li>
@@ -67,11 +67,11 @@
         <li>
           Embedded systems (Arduino, Raspberry Pi)
           <img
-            src="/arduino.svg"
+            data-src="/arduino.svg"
             alt="Arduino logo"
             width="28"
             height="28"
-            class="inline h-7"
+            class="inline h-7 lozad"
           />
         </li>
         <li>PHP</li>
@@ -84,11 +84,11 @@
         I'm also skilled at GNU/Linux system administration.
 
         <img
-          src="/arch.svg"
+          data-src="/arch.svg"
           alt="Arch linux logo"
           width="32"
           height="32"
-          class="inline h-8"
+          class="inline h-8 lozad"
         />
       </p>
 
@@ -124,11 +124,11 @@
               rel="noopener noreferrer"
             >
               <img
-                src="/ccna1.png"
+                data-src="/ccna1.png"
                 alt="CCNA 1 certification badge"
                 width="112"
                 height="112"
-                class="w-28"
+                class="w-28 lozad"
               />
             </a>
             <div class="mt-1 px-3 text-left">
@@ -144,11 +144,11 @@
               rel="noopener noreferrer"
             >
               <img
-                src="/ccna2.png"
+                data-src="/ccna2.png"
                 alt="CCNA 2 certification badge"
                 width="112"
                 height="112"
-                class="w-28"
+                class="w-28 lozad"
               />
             </a>
             <div class="mt-1 px-3 text-left">
