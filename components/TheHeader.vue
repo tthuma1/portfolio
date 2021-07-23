@@ -141,13 +141,12 @@
           class="
             font-semibold
             text-gray-50 text-sm
-            bg-blue-500
+            bg-blue-600
             py-2
             px-4
             mx-2
             rounded-full
-            hover:text-white hover:underline hover:bg-blue-600
-            dark:bg-blue-600 dark:hover:bg-blue-500
+            hover:text-white hover:underline hover:bg-blue-500
           "
         >
           Contact Me
@@ -157,6 +156,7 @@
         <button
           @click="$emit('toggleDark')"
           type="button"
+          aria-label="dark mode toggle"
           class="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-truegray-800"
         >
           <button-theme></button-theme>
@@ -326,13 +326,12 @@
                 block
                 font-semibold
                 text-gray-50
-                bg-blue-500
+                bg-blue-600
                 py-2
                 px-4
                 rounded-lg
                 text-center
-                hover:text-white hover:bg-blue-600
-                dark:bg-blue-600 dark:hover:bg-blue-500
+                hover:text-white hover:bg-blue-500
               "
             >
               Contact Me
