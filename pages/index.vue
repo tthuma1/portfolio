@@ -73,6 +73,7 @@ export default {
   },
   mounted() {
     // lazy loads elements with default selector as '.lozad'
+    // applies lazy loading globally
     const observer = lozad('.lozad', {
       rootMargin: '50% 0px', // start loading when element is 50vh outside viewport
     })

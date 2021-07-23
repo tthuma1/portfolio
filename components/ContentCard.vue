@@ -34,3 +34,19 @@
     </div>
   </div>
 </template>
+
+<script>
+import lozad from 'lozad'
+
+export default {
+  mounted() {
+    // lazy loads elements with default selector as '.lozad'
+    // this needs to be here to prevent code misfuntion on changing
+    // from sm to md breakpoint
+    const observer = lozad('.lozad', {
+      rootMargin: '50% 0px', // start loading when element is 50vh outside viewport
+    })
+    observer.observe()
+  },
+}
+</script>
