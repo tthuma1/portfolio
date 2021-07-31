@@ -10,7 +10,7 @@
         following two:
       </p>
 
-      <ul class="list-disc list-inside ml-6">
+      <ul class="list-disc ml-6">
         <li class="leading-6 mb-2">
           <a
             href="https://www.dmfa.si/Tekmovanja/MaSSB/ArhivDosezkov.aspx?leto=2021"

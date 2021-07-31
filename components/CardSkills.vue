@@ -26,7 +26,7 @@
       </div>
 
       <p>I enjoy programming very much. So far I have worked with:</p>
-      <ul class="list-disc list-inside pl-6 leading-8">
+      <ul class="list-disc pl-6 leading-8">
         <li>
           C++
           <img
@@ -100,7 +100,7 @@
           target="_blank"
           rel="noopener noreferrer"
           class="link-green"
-          >CNNA 1</a
+          >CCNA 1</a
         >
         and
         <a
@@ -109,7 +109,7 @@
           rel="noopener noreferrer"
           class="link-green"
         >
-          CNNA 2</a
+          CCNA 2</a
         >
         courses.
       </p>

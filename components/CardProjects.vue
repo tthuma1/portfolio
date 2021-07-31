@@ -4,7 +4,7 @@
       <a name="projects" class="pt-32"></a>Projects</template
     >
     <div>
-      <h3 class="text-lg font-semibold text-center mb-2">Cansat 2021</h3>
+      <h3 class="text-lg font-semibold text-center mb-2">CanSat 2021</h3>
       <p>
         I am currently working on building a
         <a
@@ -62,7 +62,7 @@
           height="96"
           class="w-24 lozad"
         />
-        <span class="mt-1"> CryptoByte logo </span>
+        <span class="mt-1">CryptoByte logo</span>
       </div>
 
       <h3 class="text-lg font-semibold text-center my-2">My Github</h3>
