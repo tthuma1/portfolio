@@ -5,7 +5,7 @@
     </template>
     <div>
       <p>
-        I'm a 16 year old from Slovenia. I study computer science at
+        I'm a 17 year old from Slovenia. I study computer science at
         <a
           href="https://www.vegova.si/"
           target="_blank"
