@@ -115,8 +115,8 @@
       </p>
 
       <!-- Cisco badges -->
-      <div class="my-4 flex justify-around space-x-4 lg:hidden">
-        <div class="flex-1 text-gray-600 text-xs dark:text-gray-400">
+      <div class="my-4 flex justify-around space-x-4">
+        <div class="flex-1 text-gray-600 text-xs dark:text-gray-400 lg:text-sm">
           <div class="flex flex-col items-center">
             <a
               href="http://https://www.credly.com/badges/fc4f664e-6ee6-48f2-b3e5-7fd170b1ed57/public_url"
@@ -131,12 +131,12 @@
                 class="w-28 lozad"
               />
             </a>
-            <div class="mt-1 px-3 text-left">
+            <div class="mt-1 px-3 text-left lg:text-center">
               CCNA: Introduction to Networks
             </div>
           </div>
         </div>
-        <div class="flex-1 text-gray-600 text-xs dark:text-gray-400">
+        <div class="flex-1 text-gray-600 text-xs dark:text-gray-400 lg:text-sm">
           <div class="flex flex-col items-center">
             <a
               href="https://www.credly.com/badges/9c14c662-8481-487c-a690-1e8f09a68e54/public_url"
@@ -151,7 +151,7 @@
                 class="w-28 lozad"
               />
             </a>
-            <div class="mt-1 px-3 text-left">
+            <div class="mt-1 px-3 text-left lg:text-center">
               CCNA: Switching, Routing, and Wireless Essentials
             </div>
           </div>
