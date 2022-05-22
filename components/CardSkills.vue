@@ -42,7 +42,6 @@
           <img
             data-src="/python.png"
             alt="Python logo"
-            width="32"
             height="32"
             class="inline h-8 lozad"
           />
@@ -101,8 +100,7 @@
           rel="noopener noreferrer"
           class="link-green"
           >CCNA 1</a
-        >
-        and
+        >,
         <a
           href="https://www.netacad.com/courses/networking/ccna-switching-routing-wireless-essentials"
           target="_blank"
@@ -110,6 +108,15 @@
           class="link-green"
         >
           CCNA 2</a
+        >
+        and
+        <a
+          href="https://www.netacad.com/courses/networking/ccna-enterprise-networking-security-automation"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="link-green"
+        >
+          CCNA 3</a
         >
         courses.
       </p>
@@ -119,23 +126,22 @@
         <div class="flex-1 text-gray-600 text-xs dark:text-gray-400 lg:text-sm">
           <div class="flex flex-col items-center">
             <a
-              href="http://https://www.credly.com/badges/fc4f664e-6ee6-48f2-b3e5-7fd170b1ed57/public_url"
+              href="https://www.credly.com/badges/fc4f664e-6ee6-48f2-b3e5-7fd170b1ed57/public_url"
               target="_blank"
               rel="noopener noreferrer"
             >
               <img
                 data-src="/ccna1.png"
                 alt="CCNA 1 certification badge"
-                width="112"
-                height="112"
                 class="w-28 lozad"
               />
             </a>
-            <div class="mt-1 px-3 text-left lg:text-center">
-              CCNA: Introduction to Networks
+            <div class="mt-1 px-1.5 text-left lg:text-center">
+              CCNA 1: Introduction to Networks
             </div>
           </div>
         </div>
+
         <div class="flex-1 text-gray-600 text-xs dark:text-gray-400 lg:text-sm">
           <div class="flex flex-col items-center">
             <a
@@ -146,13 +152,30 @@
               <img
                 data-src="/ccna2.png"
                 alt="CCNA 2 certification badge"
-                width="112"
-                height="112"
                 class="w-28 lozad"
               />
             </a>
-            <div class="mt-1 px-3 text-left lg:text-center">
-              CCNA: Switching, Routing, and Wireless Essentials
+            <div class="mt-1 px-1.5 text-left lg:text-center">
+              CCNA 2: Switching, Routing, and Wireless Essentials
+            </div>
+          </div>
+        </div>
+
+        <div class="flex-1 text-gray-600 text-xs dark:text-gray-400 lg:text-sm">
+          <div class="flex flex-col items-center">
+            <a
+              href="https://www.credly.com/badges/03fac854-096c-43a7-8e6d-f1f5426b6cf8/public_url"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                data-src="/ccna3.png"
+                alt="CCNA 3 certification badge"
+                class="w-28 lozad"
+              />
+            </a>
+            <div class="mt-1 px-1.5 text-left lg:text-center">
+              CCNA 3: Enterprise Networking, Security, and Automation
             </div>
           </div>
         </div>
