@@ -6,7 +6,7 @@
     <div>
       <h3 class="text-lg font-semibold text-center mb-2">CanSat 2021</h3>
       <p>
-        I am currently working on building a
+        I worked on building a
         <a
           href="https://www.esa.int/Education/CanSat"
           target="_blank"
@@ -15,15 +15,15 @@
         >
           CanSat</a
         >
-        in a team of 4 members. Our progress can be followed
+        in a team of 4 members for Cansat 2021. Our achievements can be found
         <a
           href="https://vegasat.wordpress.com/"
           target="_blank"
           rel="noopener noreferrer"
           class="link-green"
           >on our blog</a
-        >. Our goal is to build a probe the size of a soda can which will
-        perform different measurements.
+        >. Our goal was to build a probe the size of a soda can which performs
+        different measurements.
       </p>
       <div
         class="my-6 flex flex-col items-center text-gray-600 dark:text-gray-400"

@@ -64,7 +64,10 @@
           <span class="text-gray-700 dark:text-gray-300">(Vue, React)</span>
         </li>
         <li>
-          Embedded systems (Arduino, Raspberry Pi)
+          Embedded systems
+          <span class="text-gray-700 dark:text-gray-300"
+            >(Arduino, Raspberry Pi)</span
+          >
           <img
             data-src="/arduino.svg"
             alt="Arduino logo"

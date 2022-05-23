@@ -7,7 +7,7 @@
       <p>
         I have participated in various competitions, mostly from math and
         science. I am often very successful at them but I'm most proud of the
-        following two:
+        following three:
       </p>
 
       <ul class="list-disc ml-6">
