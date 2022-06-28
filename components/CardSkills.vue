@@ -5,7 +5,7 @@
     </template>
     <div>
       <p>
-        I have finished 2 out of 4 years of computer technician programme at
+        I have finished 3 out of 4 years of computer technician programme at
         <a
           href="https://www.vegova.si/"
           target="_blank"
