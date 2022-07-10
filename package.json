@@ -12,7 +12,7 @@
     "@types/lozad": "^1.16.1",
     "core-js": "^3.15.1",
     "lozad": "^1.16.0",
-    "nuxt": "^2.15.7"
+    "nuxt": "^2.15.8"
   },
   "devDependencies": {
     "@nuxtjs/pwa": "^3.3.5",
