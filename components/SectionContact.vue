@@ -54,6 +54,8 @@
               block
               shadow-sm
               dark:bg-truegray-800
+              focus:outline-none
+              resize-none
             "
             v-model="message"
           />

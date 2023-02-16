@@ -15,7 +15,7 @@
       dark:bg-truegray-900
     "
   >
-    <nav class="flex justify-between items-center">
+    <nav class="flex justify-around">
       <!-- Left side -->
       <nuxt-link
         to="/#"
@@ -157,7 +157,7 @@
           @click="$emit('toggleDark')"
           type="button"
           aria-label="dark mode toggle"
-          class="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-truegray-800"
+          class="p-3 rounded-full hover:bg-gray-100 dark:hover:bg-truegray-800"
         >
           <button-theme></button-theme>
         </button>
