@@ -4,7 +4,7 @@
       <a name="projects" class="pt-32"></a>Projects</template
     >
     <div>
-      <h3 class="text-lg font-semibold text-center mb-2">CanSat 2021</h3>
+      <h3 class="mb-2 text-lg font-semibold text-center">CanSat 2021</h3>
       <p>
         I worked on building a
         <a
@@ -26,7 +26,7 @@
         different measurements.
       </p>
       <div
-        class="my-6 flex flex-col items-center text-gray-600 dark:text-gray-400"
+        class="flex flex-col items-center my-6 text-gray-600 dark:text-gray-400"
       >
         <img
           data-src="/vegasat.png"
@@ -38,34 +38,40 @@
         VegaSat logo
       </div>
 
-      <h3 class="text-lg font-semibold text-center my-2">CryptoByte</h3>
+      <h3 class="my-2 text-lg font-semibold text-center">WaveChat</h3>
       <p>
         <a
-          href="https://crypto-byte.com/"
+          href="https://wavechat.si/"
           target="_blank"
           rel="noopener"
           class="link-green"
         >
-          CryptoByte</a
+          WaveChat</a
         >
-        is a project where you can buy and sell ERC-721 compliant collectible
-        tokens. It also contains ERC-20 tokens (CBTN) which you can receive by
-        purchasing collectible tokens.
+        is an instant communication web app which I have created for my
+        <a
+          href="https://en.wikipedia.org/wiki/Matura"
+          target="_blank"
+          rel="noopener"
+          class="link-green"
+          >matura</a
+        >
+        project.
       </p>
       <div
-        class="my-5 flex flex-col items-center text-gray-600 dark:text-gray-400"
+        class="flex flex-col items-center my-5 text-gray-600 dark:text-gray-400"
       >
         <img
-          data-src="/crypto-byte.svg"
-          alt="CryptoByte logo"
+          data-src="wavechat.png"
+          alt="WaveChat logo"
           width="96"
           height="96"
           class="w-24 lozad"
         />
-        <span class="mt-1">CryptoByte logo</span>
+        <span class="mt-1">WaveChat logo</span>
       </div>
 
-      <h3 class="text-lg font-semibold text-center my-2">My Github</h3>
+      <h3 class="my-2 text-lg font-semibold text-center">My Github</h3>
       <p>
         To see more of the projects I have made, you can check out
         <a

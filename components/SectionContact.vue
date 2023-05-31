@@ -1,32 +1,12 @@
 <template>
   <section
-    class="
-      flex flex-col
-      items-center
-      px-5
-      mt-6
-      bg-lines bg-pattern-lines
-      md:pb-8
-      xl:px-24
-    "
+    class="flex flex-col items-center px-5 mt-6 bg-lines bg-pattern-lines md:pb-8 xl:px-24"
   >
     <div
-      class="
-        bg-gray-100
-        rounded-md
-        text-center
-        py-6
-        px-6
-        shadow-md
-        w-full
-        max-w-md
-        sm:max-w-xl
-        md:w-9/12 md:mx-auto md:max-w-3xl
-        dark:bg-truegray-900
-      "
+      class="w-full max-w-md px-6 py-3 text-center bg-gray-100 rounded-md shadow-md sm:max-w-xl md:w-9/12 md:mx-auto md:max-w-3xl dark:bg-truegray-900"
     >
-      <div class="w-full border-b pb-1">
-        <h2 class="text-3xl text-blue-600 font-bold dark:text-blue-400">
+      <div class="w-full pb-1">
+        <h2 class="text-3xl font-bold text-blue-600 dark:text-blue-400">
           <a name="contact" class="pt-28">Contact Me</a>
         </h2>
       </div>
@@ -34,7 +14,7 @@
     <!-- </div> -->
 
     <div
-      class="md:flex justify-evenly items-center md:space-x-12 xl:space-x-24"
+      class="items-center md:flex justify-evenly md:space-x-12 xl:space-x-24"
     >
       <content-card>
         <template v-slot:heading
@@ -46,17 +26,7 @@
           <textarea
             rows="5"
             placeholder="Write something here..."
-            class="
-              w-full
-              p-4
-              rounded-lg
-              bg-gray-200
-              block
-              shadow-sm
-              dark:bg-truegray-800
-              focus:outline-none
-              resize-none
-            "
+            class="block w-full p-4 bg-gray-200 rounded-lg shadow-sm resize-none dark:bg-truegray-800 focus:outline-none"
             v-model="message"
           />
 

@@ -7,24 +7,10 @@
       <section-landing></section-landing>
 
       <main
-        class="
-          flex
-          justify-center
-          px-5
-          relative
-          bg-pattern
-          md:px-24
-          lg:-mt-28
-          xl:-mt-44 xl:px-32
-        "
+        class="relative flex justify-center px-5 bg-pattern md:px-24 lg:-mt-28 xl:-mt-44 xl:px-32"
       >
         <section
-          class="
-            max-w-md
-            min-w-0
-            md:max-w-full md:flex md:justify-evenly md:space-x-16
-            xl:space-x-24
-          "
+          class="max-w-md min-w-0 md:max-w-full md:flex md:justify-evenly md:space-x-16 xl:space-x-24"
         >
           <!-- Desktop layout of main content -->
           <div v-if="innerWidth >= 768" class="flex-1">

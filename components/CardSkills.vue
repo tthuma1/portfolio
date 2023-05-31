@@ -5,7 +5,7 @@
     </template>
     <div>
       <p>
-        I have finished 3 out of 4 years of computer technician programme at
+        I have finished the computer technician programme at
         <a
           href="https://www.vegova.si/"
           target="_blank"
@@ -26,7 +26,7 @@
       </div>
 
       <p>I enjoy programming very much. So far I have worked with:</p>
-      <ul class="list-disc pl-6 leading-8">
+      <ul class="pl-6 leading-8 list-disc">
         <li>
           C++
           <img
@@ -125,8 +125,8 @@
       </p>
 
       <!-- Cisco badges -->
-      <div class="my-4 flex justify-around space-x-4">
-        <div class="flex-1 text-gray-600 text-xs dark:text-gray-400 lg:text-sm">
+      <div class="flex justify-around my-4 space-x-4">
+        <div class="flex-1 text-xs text-gray-600 dark:text-gray-400 lg:text-sm">
           <div class="flex flex-col items-center">
             <a
               href="https://www.credly.com/badges/fc4f664e-6ee6-48f2-b3e5-7fd170b1ed57/public_url"
@@ -145,7 +145,7 @@
           </div>
         </div>
 
-        <div class="flex-1 text-gray-600 text-xs dark:text-gray-400 lg:text-sm">
+        <div class="flex-1 text-xs text-gray-600 dark:text-gray-400 lg:text-sm">
           <div class="flex flex-col items-center">
             <a
               href="https://www.credly.com/badges/9c14c662-8481-487c-a690-1e8f09a68e54/public_url"
@@ -164,7 +164,7 @@
           </div>
         </div>
 
-        <div class="flex-1 text-gray-600 text-xs dark:text-gray-400 lg:text-sm">
+        <div class="flex-1 text-xs text-gray-600 dark:text-gray-400 lg:text-sm">
           <div class="flex flex-col items-center">
             <a
               href="https://www.credly.com/badges/03fac854-096c-43a7-8e6d-f1f5426b6cf8/public_url"

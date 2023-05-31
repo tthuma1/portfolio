@@ -1,23 +1,8 @@
 <template>
   <section
-    class="
-      min-h-screen
-      grid grid-rows-2
-      justify-center
-      gap-16
-      pt-28
-      px-5
-      bg-gray-100
-      relative
-      z-20
-      bg-lines
-      sm:bg-lines-xl
-      lg:pt-36 lg:px-32 lg:grid-rows-1 lg:grid-cols-2 lg:bg-lines-lg
-      xl:pt-40 xl:bg-lines-xl
-      dark:bg-truegray-850
-    "
+    class="relative z-20 grid justify-center min-h-screen grid-rows-2 gap-16 px-5 bg-gray-100 pt-28 bg-lines sm:bg-lines-xl lg:pt-36 lg:px-32 lg:grid-rows-1 lg:grid-cols-2 lg:bg-lines-lg xl:pt-40 xl:bg-lines-xl dark:bg-truegray-850"
   >
-    <div class="z-20 relative 2xl:flex 2xl:justify-center">
+    <div class="relative z-20 2xl:flex 2xl:justify-center">
       <!-- Wrapper div needed for 2xl breakpoint -->
       <div>
         <p
@@ -26,19 +11,7 @@
           Hello, I'm
         </p>
         <h1
-          class="
-            uppercase
-            font-bold
-            text-5xl
-            mb-2
-            bg-clip-text
-            text-transparent
-            bg-gradient-to-r
-            from-blue-600
-            to-green-500
-            lg:text-7xl
-            dark:from-blue-500
-          "
+          class="mb-2 text-5xl font-bold text-transparent uppercase bg-clip-text bg-gradient-to-r from-blue-600 to-green-500 lg:text-7xl dark:from-blue-500"
         >
           Tim Thuma
         </h1>
@@ -51,36 +24,15 @@
           software with
           <span class="relative inline-block">
             <span
-              class="
-                absolute
-                animate-fade
-                -animation-delay-5000
-                text-2xl text-green-600
-                font-semibold
-                dark:text-green-400
-              "
+              class="absolute text-2xl font-semibold text-green-600 animate-fade -animation-delay-5000 dark:text-green-400"
               >C++</span
             >
             <span
-              class="
-                absolute
-                opacity-0
-                animate-fade
-                text-2xl text-green-600
-                font-semibold
-                dark:text-green-400
-              "
+              class="absolute text-2xl font-semibold text-green-600 opacity-0 animate-fade dark:text-green-400"
               >Python</span
             >
             <span
-              class="
-                opacity-0
-                animate-fade
-                animation-delay-5000
-                text-2xl text-green-600
-                font-semibold
-                dark:text-green-400
-              "
+              class="text-2xl font-semibold text-green-600 opacity-0 animate-fade animation-delay-5000 dark:text-green-400"
               >Web languages</span
             >
           </span>
@@ -90,124 +42,42 @@
       <!-- <button class="hover:-translate-y-0.5 transform transition">
           <a
             href="#about"
-            class="
-              bg-blue-500
-              rounded-lg
-              text-gray-50
-              px-4
-              py-3
-              font-semibold
-              shadow-lg
-              hover:bg-blue-600 hover:text-white
-            "
+            class="px-4 py-3 font-semibold bg-blue-500 rounded-lg shadow-lg  text-gray-50 hover:bg-blue-600 hover:text-white"
             >About Me</a
           >
         </button> -->
 
       <!-- Blobs -->
       <!-- <div
-          class="
-            absolute
-            bg-blue-500
-            w-32
-            h-32
-            blur-xl
-            rounded-full
-            right-32
-            bottom-12
-            opacity-40
-            z-0
-            animate-move
-            animation-delay-5000
-          "
+          class="absolute z-0 w-32 h-32 bg-blue-500 rounded-full  blur-xl right-32 bottom-12 opacity-40 animate-move animation-delay-5000"
         ></div>
         <div
-          class="
-            absolute
-            bg-green-600
-            w-32
-            h-32
-            blur-2xl
-            rounded-full
-            right-64
-            bottom-8
-            opacity-50
-            z-0
-            animate-move
-          "
+          class="absolute z-0 w-32 h-32 bg-green-600 rounded-full opacity-50  blur-2xl right-64 bottom-8 animate-move"
         ></div> -->
     </div>
 
     <!-- <img
         src="/lines.svg"
         alt="Vector lines"
-        class="
-          hidden
-          absolute
-          h-screen
-          w-auto
-          left-0
-          bottom-0
-          opacity-50
-          z-0
-          lg:block
-        "
+        class="absolute bottom-0 left-0 z-0 hidden w-auto h-screen opacity-50  lg:block"
       /> -->
 
     <!-- Card with portrait -->
     <div
-      class="
-        row-span-3
-        flex
-        items-center
-        justify-center
-        relative
-        h-80
-        mt-4
-        max-w-md
-        lg:max-h-96 lg:h-auto lg:row-span-1
-        xl:max-h-[30rem]
-      "
+      class="row-span-3 flex items-center justify-center relative h-80 mt-4 max-w-md lg:max-h-96 lg:h-auto lg:row-span-1 xl:max-h-[30rem]"
     >
       <div
-        class="
-          absolute
-          inset-0
-          w-full
-          h-full
-          bg-green-400
-          rounded-2xl
-          shadow-xl
-          transform
-          -rotate-6
-          lg:h-5/6
-          dark:bg-green-500
-        "
+        class="absolute inset-0 w-full h-full transform bg-green-400 shadow-xl rounded-2xl -rotate-6 lg:h-5/6 dark:bg-green-500"
       ></div>
       <div
-        class="
-          absolute
-          inset-0
-          flex
-          justify-center
-          items-center
-          w-full
-          h-full
-          bg-blue-500
-          rounded-2xl
-          shadow-xl
-          transform
-          rotate-2
-          lg:h-5/6
-          dark:bg-blue-600
-        "
+        class="absolute inset-0 flex items-center justify-center w-full h-full transform bg-blue-500 shadow-xl rounded-2xl rotate-2 lg:h-5/6 dark:bg-blue-600"
       >
         <img
           src="/icon_full.png"
           alt="My icon"
           width="208"
           height="208"
-          class="w-52 h-52 rounded-full shadow-2xl"
+          class="rounded-full shadow-2xl w-52 h-52"
         />
         <!-- <div class="relative w-full lg:h-full">
             <img

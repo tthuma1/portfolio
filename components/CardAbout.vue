@@ -5,7 +5,7 @@
     </template>
     <div>
       <p>
-        I'm a 17 year old from Slovenia. I study computer science at
+        I'm an 18-year-old from Slovenia. I study computer science at
         <a
           href="https://www.vegova.si/"
           target="_blank"
@@ -17,12 +17,12 @@
       </p>
 
       <!-- <div
-        class="my-6 flex flex-col items-center text-gray-600 dark:text-gray-400"
+        class="flex flex-col items-center my-6 text-gray-600 dark:text-gray-400"
       >
         <img
           src=""
           alt=""
-          class="w-full rounded-md mb-2 shadow-md"
+          class="w-full mb-2 rounded-md shadow-md"
         />
         
       </div> -->
