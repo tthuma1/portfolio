@@ -5,13 +5,13 @@
     </template>
     <div>
       <p>
-        I'm an 18-year-old from Slovenia. I study computer science at
+        I'm an 19-year-old from Slovenia. I study computer science at
         <a
-          href="https://www.vegova.si/"
+          href="https://fri.uni-lj.si/"
           target="_blank"
           rel="noopener"
           class="link-green"
-          >Vegova</a
+          >Faculty of Computer and Information Science</a
         >
         in Ljubljana.
       </p>

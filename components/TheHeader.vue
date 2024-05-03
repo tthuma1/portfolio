@@ -13,7 +13,7 @@
         ></div>
         <span class="relative z-10">Tim Thuma</span>
         <div
-          class="absolute z-0 w-10 h-10 transition transform bg-blue-300 rounded-full dark:bg-blue-600 opacity-10 -bottom-3 -right-4 group-hover:-translate-y-2 group-hover:translate-x-1 lg:h-12 lg:w-12"
+          class="absolute z-0 w-10 h-10 transition transform bg-blue-300 rounded-full dark:bg-blue-600 opacity-10 -bottom-1 -right-2 group-hover:-translate-y-2 group-hover:translate-x-1 lg:h-12 lg:w-12"
         ></div>
       </nuxt-link>
 

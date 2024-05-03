@@ -41,7 +41,7 @@
       <h3 class="my-2 text-lg font-semibold text-center">WaveChat</h3>
       <p>
         <a
-          href="https://wavechat.si/"
+          href="https://github.com/tthuma1/wavechat"
           target="_blank"
           rel="noopener"
           class="link-green"
@@ -56,7 +56,14 @@
           class="link-green"
           >matura</a
         >
-        project.
+        project. You can read
+        <a
+          href="/wavechat_porocilo.pdf"
+          target="_blank"
+          rel="noopener"
+          class="link-green"
+        >a paper (in Slovene)</a>
+        that I wrote about it.
       </p>
       <div
         class="flex flex-col items-center my-5 text-gray-600 dark:text-gray-400"

@@ -188,6 +188,21 @@
         I'm always interested in learning more stuff and broadening my
         knowledge.
       </p>
+
+      <br />
+
+      <p>
+        I have been working as a full-stack (C++ and JS) developer at
+        <a
+          href="https://ebadms.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="link-green"
+        >
+          EBA d.o.o.</a
+        >
+        since July 2023.
+      </p>
     </div>
   </content-card>
 </template>
