@@ -43,7 +43,7 @@
           >
         </template>
 
-        <div class="grid grid-cols-2 gap-x-4 gap-y-2 sm:grid-cols-3">
+        <div class="grid grid-cols-3 gap-x-4 gap-y-2">
           <a
             href="https://www.instagram.com/timthuma/"
             target="_blank"
