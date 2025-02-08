@@ -53,6 +53,18 @@
           class="w-36 lozad"
         />
       </div>
+      <h3 class="mb-2 mt-2 text-lg font-semibold text-center">EuroSkills 2025</h3>
+      <p>
+        I competed and won in SloSkills 2024 in the ICT
+        category. In September 2025 I will be competing at
+        <a
+          href="https://www.dmfa.si/Tekmovanja/MaSSB/ArhivDosezkov.aspx?leto=2022"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="link-green"
+        >
+          EuroSkills Herning 2025</a>.
+      </p>
     </div>
   </content-card>
 </template>

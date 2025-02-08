@@ -24,7 +24,7 @@
           software with
           <span class="relative inline-block">
             <span
-              class="absolute text-2xl font-semibold text-green-600 animate-fade -animation-delay-5000 dark:text-green-400"
+              class="absolute text-2xl font-semibold text-green-600 animate-fade -animation-delay-2000 dark:text-green-400"
               >C++</span
             >
             <span
@@ -32,7 +32,7 @@
               >Python</span
             >
             <span
-              class="text-2xl font-semibold text-green-600 opacity-0 animate-fade animation-delay-5000 dark:text-green-400"
+              class="text-2xl font-semibold text-green-600 opacity-0 animate-fade animation-delay-2000 dark:text-green-400"
               >Web languages</span
             >
           </span>

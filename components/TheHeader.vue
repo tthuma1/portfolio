@@ -1,8 +1,8 @@
 <template>
   <header
-    class="fixed top-0 z-40 w-full px-8 py-4 shadow-md bg-gray-50 md:px-10 lg:px-28 xl:px-32 dark:bg-truegray-900"
+    class="fixed top-0 z-40 w-full px-7 py-4 shadow-md bg-gray-50 md:px-10 lg:px-28 xl:px-32 dark:bg-truegray-900"
   >
-    <nav class="flex justify-around">
+    <nav class="flex justify-between md:justify-around">
       <!-- Left side -->
       <nuxt-link
         to="/#"

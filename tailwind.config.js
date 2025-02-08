@@ -16,7 +16,7 @@ module.exports = {
         truegray: { ...colors.trueGray, 850: '#1F1F1F' },
       },
       animation: {
-        fade: 'fade 15s infinite',
+        fade: 'fade 6s infinite',
         move: 'move 7s infinite',
       },
       keyframes: {

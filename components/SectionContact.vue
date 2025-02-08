@@ -43,7 +43,7 @@
           >
         </template>
 
-        <div class="grid grid-cols-2 gap-x-4 gap-y-2 sm:grid-cols-4">
+        <div class="grid grid-cols-2 gap-x-4 gap-y-2 sm:grid-cols-3">
           <a
             href="https://www.instagram.com/timthuma/"
             target="_blank"
@@ -53,21 +53,6 @@
             <img
               data-src="/social/instagram.svg"
               alt="Instagram logo"
-              class="w-12 h-12 lozad"
-              width="48"
-              height="48"
-            />
-          </a>
-
-          <a
-            href="https://www.facebook.com/tim.thuma.75/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <span class="sr-only">My Facebook profile</span>
-            <img
-              data-src="/social/facebook.svg"
-              alt="Facebook logo"
               class="w-12 h-12 lozad"
               width="48"
               height="48"

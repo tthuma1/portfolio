@@ -24,7 +24,7 @@
 
       <p>
         My most common form of procrastination is watching random videos on
-        YouTube or looking at memes on Reddit.
+        YouTube.
       </p>
       <div class="flex justify-center my-6">
         <!-- <lazy-video-yt></lazy-video-yt> -->
