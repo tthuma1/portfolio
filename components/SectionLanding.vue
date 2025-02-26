@@ -1,6 +1,6 @@
 <template>
   <section
-    class="relative z-20 grid justify-center min-h-screen grid-rows-2 gap-16 px-5 bg-gray-100 pt-28 bg-lines sm:bg-lines-xl lg:pt-36 lg:px-32 lg:grid-rows-1 lg:grid-cols-2 lg:bg-lines-lg xl:pt-40 xl:bg-lines-xl dark:bg-truegray-850"
+    class="relative z-20 grid justify-center min-h-screen-or-rem grid-rows-2 gap-16 px-5 bg-gray-100 pt-28 bg-lines sm:bg-lines-xl lg:pt-36 lg:px-32 lg:grid-rows-1 lg:grid-cols-2 lg:bg-lines-lg xl:pt-40 xl:bg-lines-xl dark:bg-truegray-850"
   >
     <div class="relative z-20 2xl:flex 2xl:justify-center">
       <!-- Wrapper div needed for 2xl breakpoint -->

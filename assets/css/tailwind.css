@@ -43,4 +43,8 @@
     background-repeat: no-repeat;
     background-image: url('/lines.svg');
   }
+
+  .min-h-screen-or-rem {
+    min-height: min(100vh, 55rem);
+  }
 }
