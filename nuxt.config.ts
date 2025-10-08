@@ -30,7 +30,7 @@ export default defineNuxtConfig({
             "Tim Thuma's personal website. Student and software developer from Slovenia.",
         },
         { name: 'format-detection', content: 'telephone=no' },
-        { name: 'apple-mobile-web-app-capable', content: 'yes' },
+        { name: 'mobile-web-app-capable', content: 'yes' },
         { name: 'robots', content: 'index, follow' },
         { property: 'og:title', content: "Tim Thuma's website" },
         {
