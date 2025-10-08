@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .animation-delay-2000 {
+    animation-delay: 2s;
+  }
+  .-animation-delay-2000 {
+    animation-delay: -2s;
+  }
+  .bg-pattern {
+    background-image: url("data:image/svg+xml,%3Csvg width='52' height='26' viewBox='0 0 52 26' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23b1abbb' fill-opacity='0.2'%3E%3Cpath d='M10 10c0-2.21-1.79-4-4-4-3.314 0-6-2.686-6-6h2c0 2.21 1.79 4 4 4 3.314 0 6 2.686 6 6 0 2.21 1.79 4 4 4 3.314 0 6 2.686 6 6 0 2.21 1.79 4 4 4v2c-3.314 0-6-2.686-6-6 0-2.21-1.79-4-4-4-3.314 0-6-2.686-6-6zm25.464-1.95l8.486 8.486-1.414 1.414-8.486-8.486 1.414-1.414z' /%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  }
+  .bg-pattern-lines {
+    background-image: url('/bg-pattern-lines.svg');
+    /* background-repeat: space; */
+    /* background-position: left 0px top -50px; */
+  }
+  .bg-lines-xl {
+    background-image: url('/lines-xl.svg');
+  }
+  .bg-lines-lg {
+    background-image: url('/lines-lg.svg');
+  }
+  .bg-pattern-lines {
+    background-image: url('/bg-pattern-lines-1.svg');
+    background-size: cover;
+  }
+}
+
+@layer components {
+  .link-green {
+    @apply text-green-700 hover:text-green-600 hover:underline dark:text-green-400;
+  }
+  .btn-primary {
+    @apply bg-blue-600 rounded-lg text-gray-50 px-4 py-3 font-semibold shadow-lg
+      hover:bg-blue-500 hover:text-white focus:ring-2 focus:ring-inset focus:ring-blue-300;
+  }
+  .bg-lines {
+    background-size: stretch;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-image: url('/lines.svg');
+  }
+
+  .min-h-screen-or-rem {
+    min-height: min(100vh, 55rem);
+  }
+}
