@@ -79,7 +79,7 @@
           width="208"
           height="208"
           class="rounded-full shadow-2xl w-52 h-52"
-          loading="lazy"
+          fetchpriority="high"
         />
         <!-- <div class="relative w-full lg:h-full">
             <NuxtImg
