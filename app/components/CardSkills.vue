@@ -33,7 +33,7 @@
           <NuxtImg
             src="/cpp.svg"
             alt="C++ logo"
-            width="32"
+            width="28"
             height="32"
             class="inline h-8"
             loading="lazy"
