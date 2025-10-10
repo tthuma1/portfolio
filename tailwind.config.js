@@ -13,7 +13,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        truegray: { ...colors.trueGray, 850: '#1F1F1F' },
+        neutral: { ...colors.neutral, 850: '#1F1F1F' },
       },
       animation: {
         fade: 'fade 6s infinite',

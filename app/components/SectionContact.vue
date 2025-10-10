@@ -3,7 +3,7 @@
     class="flex flex-col items-center px-5 mt-6 bg-lines bg-pattern-lines md:pb-8 xl:px-24"
   >
     <div
-      class="w-full max-w-md px-6 py-3 text-center bg-gray-100 rounded-md shadow-md sm:max-w-xl md:w-9/12 md:mx-auto md:max-w-3xl dark:bg-truegray-900"
+      class="w-full max-w-md px-6 py-3 text-center bg-gray-100 rounded-md shadow-md sm:max-w-xl md:w-9/12 md:mx-auto md:max-w-3xl dark:bg-neutral-900"
     >
       <div class="w-full pb-1">
         <h2 class="text-3xl font-bold text-blue-600 dark:text-blue-400">
@@ -26,7 +26,7 @@
           <textarea
             rows="5"
             placeholder="Write something here..."
-            class="block w-full p-4 bg-gray-200 rounded-lg shadow-sm resize-none dark:bg-truegray-800 focus:outline-none"
+            class="block w-full p-4 bg-gray-200 rounded-lg shadow-sm resize-none dark:bg-neutral-800 focus:outline-none"
             v-model="message"
           />
 

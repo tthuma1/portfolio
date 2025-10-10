@@ -1,6 +1,6 @@
 <template>
   <header
-    class="fixed top-0 z-40 w-full px-7 py-4 shadow-md bg-gray-50 md:px-10 lg:px-28 xl:px-32 dark:bg-truegray-900"
+    class="fixed top-0 z-40 w-full px-7 py-4 shadow-md bg-gray-50 md:px-10 lg:px-28 xl:px-32 dark:bg-neutral-900"
   >
     <nav class="flex justify-between md:justify-around">
       <!-- Left side -->
@@ -23,14 +23,14 @@
           @click="$emit('toggleDark')"
           type="button"
           aria-label="dark mode toggle"
-          class="p-2 text-gray-500 rounded-full hover:text-gray-600 hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-truegray-800 dark:hover:text-gray-200"
+          class="p-2 text-gray-500 rounded-full hover:text-gray-600 hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-neutral-800 dark:hover:text-gray-200"
         >
           <ButtonTheme></ButtonTheme>
         </button>
 
         <button
           @click="toggle"
-          class="p-2 ml-2 text-gray-400 rounded-md hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-400 dark:hover:bg-truegray-800 dark:hover:text-gray-300"
+          class="p-2 ml-2 text-gray-400 rounded-md hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-400 dark:hover:bg-neutral-800 dark:hover:text-gray-300"
           aria-expanded="false"
         >
           <span class="sr-only">Open main menu</span>
@@ -75,7 +75,7 @@
           @click="$emit('toggleDark')"
           type="button"
           aria-label="dark mode toggle"
-          class="p-3 rounded-full hover:bg-gray-100 dark:hover:bg-truegray-800"
+          class="p-3 rounded-full hover:bg-gray-100 dark:hover:bg-neutral-800"
         >
           <ButtonTheme></ButtonTheme>
         </button>
@@ -96,7 +96,7 @@
         class="absolute inset-x-0 top-0 z-20 p-2 transition origin-top-right transform md:hidden"
       >
         <div
-          class="overflow-hidden bg-white rounded-lg shadow-md ring-1 ring-black ring-opacity-5 dark:bg-truegray-900"
+          class="overflow-hidden bg-white rounded-lg shadow-md ring-1 ring-black ring-opacity-5 dark:bg-neutral-900"
         >
           <div class="flex items-center justify-between px-5 pt-4">
             <nuxt-link
@@ -118,14 +118,14 @@
               <button
                 @click="$emit('toggleDark')"
                 type="button"
-                class="p-2 text-gray-500 rounded-full hover:text-gray-600 hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-truegray-800 dark:hover:text-gray-200"
+                class="p-2 text-gray-500 rounded-full hover:text-gray-600 hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-neutral-800 dark:hover:text-gray-200"
               >
                 <ButtonTheme></ButtonTheme>
               </button>
               <button
                 @click="toggle"
                 type="button"
-                class="p-2 ml-2 mr-1 text-gray-400 rounded-md hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-400 dark:hover:text-gray-300 dark:hover:bg-truegray-800"
+                class="p-2 ml-2 mr-1 text-gray-400 rounded-md hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-400 dark:hover:text-gray-300 dark:hover:bg-neutral-800"
               >
                 <span class="sr-only">Close main menu</span>
                 <!-- Heroicon name: outline/x -->
@@ -153,7 +153,7 @@
               :key="link.to"
               :href="link.href"
               @click="toggle"
-              class="block px-3 py-2 font-medium text-gray-700 rounded-md hover:text-gray-900 hover:bg-gray-50 dark:text-gray-50 dark:hover:bg-truegray-800"
+              class="block px-3 py-2 font-medium text-gray-700 rounded-md hover:text-gray-900 hover:bg-gray-50 dark:text-gray-50 dark:hover:bg-neutral-800"
             >
               {{ link.text }}
             </a>
