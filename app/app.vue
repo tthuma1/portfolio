@@ -37,7 +37,7 @@
 import { ref, onMounted, onBeforeUnmount } from 'vue'
 
 const isDark = ref(false)
-const innerWidth = ref(0)
+const innerWidth = ref(1000) // initialize to 1000px to prevent layout shift on desktop load
 
 function toggleTheme() {
   isDark.value = !isDark.value
