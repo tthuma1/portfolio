@@ -35,7 +35,7 @@
             alt="C++ logo"
             width="28"
             height="32"
-            class="inline h-8"
+            class="inline h-8 ml-1"
             loading="lazy"
           />
         </li>
@@ -45,7 +45,7 @@
             src="/python.png"
             alt="Python logo"
             height="32"
-            class="inline h-8"
+            class="inline h-8 ml-1"
             loading="lazy"
           />
         </li>
@@ -59,7 +59,7 @@
             alt="World wide web icon"
             width="32"
             height="32"
-            class="inline h-8"
+            class="inline h-8 ml-1"
             loading="lazy"
           />
         </li>
@@ -70,14 +70,14 @@
         <li>
           Embedded systems
           <span class="text-gray-700 dark:text-gray-300"
-            >(Arduino, Raspberry Pi)</span
+            >(STM32, Arduino, Raspberry Pi)</span
           >
           <NuxtImg
             src="/arduino.svg"
             alt="Arduino logo"
             width="28"
             height="28"
-            class="inline h-7"
+            class="inline h-7 ml-1"
             loading="lazy"
           />
         </li>
@@ -95,7 +95,7 @@
           alt="Arch linux logo"
           width="32"
           height="32"
-          class="inline h-8"
+          class="inline h-8 ml-1"
           loading="lazy"
         />
       </p>
