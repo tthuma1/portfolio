@@ -6,10 +6,10 @@
       <!-- Left side -->
       <nuxt-link
         to="/#"
-        class="relative text-xl font-bold text-blue-500 hover:text-blue-600 group lg:text-2xl dark:hover:text-blue-400"
+        class="flex items-center relative text-xl font-bold text-blue-500 hover:text-blue-600 group lg:text-2xl dark:hover:text-blue-400"
       >
         <div
-          class="absolute z-0 w-12 h-12 transition transform bg-blue-300 rounded-full dark:bg-blue-600 opacity-10 -top-3 -left-2 group-hover:translate-y-2 group-hover:-translate-x-1 lg:h-14 lg:w-14"
+          class="absolute z-0 w-12 h-12 transition transform bg-blue-300 rounded-full dark:bg-blue-600 opacity-10 -top-2 -left-2 group-hover:translate-y-2 group-hover:-translate-x-1 lg:h-14 lg:w-14"
         ></div>
         <span class="relative z-10">Tim Thuma</span>
         <div
