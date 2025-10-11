@@ -27,7 +27,7 @@ export default defineNuxtConfig({
           id: 'description',
           name: 'description',
           content:
-            "Tim Thuma's personal website. Student and software developer from Slovenia.",
+            "Tim Thuma is a student and software developer from Slovenia.",
         },
         { name: 'format-detection', content: 'telephone=no' },
         { name: 'mobile-web-app-capable', content: 'yes' },
@@ -36,7 +36,7 @@ export default defineNuxtConfig({
         {
           property: 'og:description',
           content:
-            "Tim Thuma's personal website. Student and software developer from Slovenia.",
+            "Tim Thuma is a student and software developer from Slovenia.",
         },
         { property: 'og:type', content: 'website' },
         { property: 'og:url', content: 'https://timthuma.com/' },
