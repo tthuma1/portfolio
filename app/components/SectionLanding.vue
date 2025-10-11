@@ -11,7 +11,7 @@
           Hello, I'm
         </p>
         <h1
-          class="mb-2 text-5xl font-bold text-transparent uppercase bg-clip-text bg-gradient-to-r from-blue-600 to-green-500 lg:text-7xl dark:from-blue-500"
+          class="mb-2 text-5xl font-bold text-transparent uppercase bg-clip-text bg-gradient-to-r from-blue-600 to-green-500 lg:text-7xl dark:from-blue-500 dark:to-green-500"
         >
           Tim Thuma
         </h1>

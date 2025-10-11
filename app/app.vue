@@ -1,5 +1,5 @@
 <template>
-  <div :class="[isDark ? 'dark' : '']">
+  <div :class="[isDark ? 'dark' : '']" class="font-display">
     <div class="text-gray-900 bg-gray-200 dark:bg-neutral-800 dark:text-gray-50">
       <TheHeader @toggleDark="toggleTheme" />
       <SectionLanding></SectionLanding>
