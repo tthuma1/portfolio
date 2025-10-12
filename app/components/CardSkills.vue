@@ -5,7 +5,7 @@
     </template>
     <div>
       <p>
-        I have finished the computer technician programme at
+        I have finished the computer technician program at
         <a
           href="https://www.vegova.si/"
           target="_blank"
@@ -26,7 +26,7 @@
         />
       </div>
 
-      <p>I enjoy programming very much. So far I have worked with:</p>
+      <p>I enjoy programming very much. So far, I have worked with:</p>
       <ul class="pl-6 leading-8 list-disc">
         <li>
           C++
@@ -64,7 +64,7 @@
           />
         </li>
         <li>
-          JS frameworks/librarires
+          JS frameworks/libraries
           <span class="text-gray-700 dark:text-gray-300">(Vue, React)</span>
         </li>
         <li>
@@ -117,8 +117,7 @@
           class="link-green"
         >
           CCNA 2</a
-        >
-        and
+        >, and
         <a
           href="https://www.netacad.com/courses/networking/ccna-enterprise-networking-security-automation"
           target="_blank"

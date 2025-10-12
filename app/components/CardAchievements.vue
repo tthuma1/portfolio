@@ -6,7 +6,7 @@
     <div>
       <p>
         I have participated in various competitions, mostly in math and science.
-        I am often very successful at them but I'm most proud of the following
+        I am often very successful at them, but I'm most proud of the following
         three:
       </p>
 
@@ -18,7 +18,7 @@
             rel="noopener noreferrer"
             class="link-green"
           >
-            1<sup>st</sup> place on Mathematical competition for technical
+            1<sup>st</sup> place in the Mathematical competition for technical
             secondary schools DMFA (2021)
           </a>
         </li>
@@ -29,7 +29,7 @@
             rel="noopener noreferrer"
             class="link-green"
           >
-            3<sup>rd</sup> place on Competition of computer science ACM (2021)
+            3<sup>rd</sup> place in the ACM Computer Science Competition (2021)
           </a>
         </li>
         <li class="mb-2 leading-6">
@@ -39,7 +39,7 @@
             rel="noopener noreferrer"
             class="link-green"
           >
-            1<sup>st</sup> place on Mathematical competition for technical
+            1<sup>st</sup> place in the Mathematical competition for technical
             secondary schools DMFA (2022)
           </a>
         </li>

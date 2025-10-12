@@ -22,7 +22,7 @@
           rel="noopener noreferrer"
           class="link-green"
           >on our blog</a
-        >. Our goal was to build a probe the size of a soda can which performs
+        >. Our goal was to build a probe the size of a soda can that performs
         different measurements.
       </p>
       <div
@@ -49,7 +49,7 @@
         >
           WaveChat</a
         >
-        is an instant communication web app which I have created for my
+        is an instant communication web app that I have created for my
         <a
           href="https://en.wikipedia.org/wiki/Matura"
           target="_blank"

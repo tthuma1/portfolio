@@ -5,11 +5,11 @@
     >
     <div>
       <p>
-        My biggest hobby is programming and I spend most of my free time for it.
-        But besides that I also like learning math and science.
+        My biggest hobby is programming, and I spend most of my free time on it.
+        But besides that, I also like learning math and science.
         <br />
         <br />
-        I like challenges that require thinking which is why I enjoy solving
+        I like challenges that require thinking, which is why I enjoy solving
         algorithmic problems.
       </p>
       <div class="flex justify-center my-6">
