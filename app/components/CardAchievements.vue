@@ -57,7 +57,7 @@
       <h3 class="mb-2 mt-2 text-lg font-semibold text-center">EuroSkills 2025</h3>
       <p>
         I competed and won at SloSkills 2024 in the ICT
-        category. In September 2025 I competed at
+        category. In September 2025, I competed at
         <a
           href="https://euroskills2025.com/"
           target="_blank"
