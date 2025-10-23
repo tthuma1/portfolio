@@ -4,6 +4,20 @@
       <a name="achievements" class="pt-32"></a>Achievements</template
     >
     <div>
+      <h3 class="mb-2 mt-2 text-lg font-semibold text-center">EuroSkills 2025</h3>
+      <p>
+        I competed and won at SloSkills 2024 in the ICT
+        category. In September 2025, I competed at
+        <a
+          href="https://euroskills2025.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="link-green"
+        >
+          EuroSkills Herning 2025</a> in the same category where I won a Medallion for Excellence and took 5<sup>th</sup> place.
+      </p>
+
+      <h3 class="mb-2 mt-2 text-lg font-semibold text-center">Competitions</h3>
       <p>
         I have participated in various competitions, mostly in math and science.
         I am often very successful at them, but I'm most proud of the following
@@ -54,18 +68,6 @@
           loading="lazy"
         />
       </div>
-      <h3 class="mb-2 mt-2 text-lg font-semibold text-center">EuroSkills 2025</h3>
-      <p>
-        I competed and won at SloSkills 2024 in the ICT
-        category. In September 2025, I competed at
-        <a
-          href="https://euroskills2025.com/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="link-green"
-        >
-          EuroSkills Herning 2025</a> in the same category where I won a Medallion for Excellence and took 5<sup>th</sup> place.
-      </p>
     </div>
   </ContentCard>
 </template>
