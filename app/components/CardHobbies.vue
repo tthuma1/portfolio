@@ -22,15 +22,22 @@
         />
       </div>
       <p>
-        My most common form of procrastination is watching
-        <a
-            href="https://youtu.be/T38JRqe5tYQ"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="link-green"
-          >
-            random videos on YouTube</a>.
+        My most common form of procrastination is watching random videos on YouTube.
       </p>
+      <div class="flex justify-center my-6">
+        <!-- <lazy-video-yt></lazy-video-yt> -->
+        <iframe
+          class="w-full h-52"
+          width="208"
+          height="300"
+          src="https://www.youtube-nocookie.com/embed/T38JRqe5tYQ"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen
+        ></iframe>
+      </div>
     </div>
   </ContentCard>
 </template>
