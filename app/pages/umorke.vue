@@ -103,7 +103,7 @@ function decode() {
 }
 
 useSeoMeta({
-  title: 'Umorjenke',
+  title: 'Umorke',
   robots: 'noindex, nofollow',
 })
 </script>
